@@ -4,9 +4,9 @@ Since building and updating a resume seems to be a hassle nowadays, I think I'll
 
 
 ## Tech stack
-[x] React
-[x] Vite
-[x] TypeScript
+- [x] React
+- [x] Vite
+- [x] TypeScript
 
 
 It should be fun 😁  
