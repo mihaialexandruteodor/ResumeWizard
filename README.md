@@ -5,3 +5,9 @@ Since building and updating a resume seems to be a hassle nowadays, I think I'll
 
 
 It should be fun 😁  
+
+## Dev deps:
+eslint
+
+## Deps:
+
