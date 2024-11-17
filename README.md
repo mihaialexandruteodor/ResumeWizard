@@ -8,4 +8,5 @@ It should be fun 😁
 - [x] React
 - [x] Vite
 - [x] TypeScript
+- [x] Bootstrap
 
